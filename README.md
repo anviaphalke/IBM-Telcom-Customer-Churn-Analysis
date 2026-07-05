@@ -132,7 +132,6 @@ IBM-Telco-Customer-Churn-Analysis/
 │   └── telco_churn_analysis.sql
 ├── PowerBI/
 │   ├── Telco_Churn_Dashboard.pbix
-│   └── dashboard_screenshot.png
 └── Dataset/
     └── WA_Fn-UseC_-Telco-Customer-Churn.csv
 ```
